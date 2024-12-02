@@ -22,6 +22,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshat-Rastogi-6&icon=4&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Akshat-Rastogi-6&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
