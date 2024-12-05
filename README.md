@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="219" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
+  <img height="500" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
 </div>
 
 ###
@@ -136,9 +136,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Akshat-Rastogi-6&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Akshat-Rastogi-6/Akshat-Rastogi-6/output/snake.svg" alt="Snake animation" />
 
 ###
