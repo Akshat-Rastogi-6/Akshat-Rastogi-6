@@ -20,7 +20,7 @@
 
 ###
 
-<p style="text-align:left; font-size: 50px;">I'm currently focused on fine-tuning LLMs for user-based tasks 🔧, always open to collaborating on innovative machine learning projects 🤝. As I dive deeper into advanced deep learning concepts and LLMs 📚, I enjoy discussing everything from machine learning and computer vision to data structures and Python development 🧑‍💻. A fun fact about me is that my learning style is based on observation 👀—if I want to learn something, I just watch and absorb. 🌱</p>
+<p aligh="center">I'm currently focused on fine-tuning LLMs for user-based tasks 🔧, always open to collaborating on innovative machine learning projects 🤝. As I dive deeper into advanced deep learning concepts and LLMs 📚, I enjoy discussing everything from machine learning and computer vision to data structures and Python development 🧑‍💻. A fun fact about me is that my learning style is based on observation 👀—if I want to learn something, I just watch and absorb. 🌱</p>
 
 ###
 
