@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on Fine-tuning LLMs for user-based tasks.<br>👯 I’m looking to collaborate on innovative Machine Learning Projects<br>🌱 I’m currently learning advance Deep Learning concepts and LLMs.<br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Structures and Python development<br>⚡ Fun fact about me is that if I have to learn something, I just have to observe.</h3>
+<p style="text-align:left; font-size: 50px;">🔭 I’m currently working on Fine-tuning LLMs for user-based tasks.<br>👯 I’m looking to collaborate on innovative Machine Learning Projects<br>🌱 I’m currently learning advance Deep Learning concepts and LLMs.<br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Structures and Python development<br>⚡ Fun fact about me is that if I have to learn something, I just have to observe.</p>
 
 ###
 
