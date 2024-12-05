@@ -13,32 +13,10 @@
 ###
 
 <div align="center">
-  <a href="akshatrastogi6704@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/akshatrastogi6704/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/akshatrastogi671" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://x.com/Akshatrastogi_6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/i_am_akshat_rastogi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/Akshat-Rastogi-6/count.svg?"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">👩‍💻  About Me</h2>
 
@@ -49,8 +27,6 @@
 <h3 align="left">🔭 I’m currently working on Fine-tuning LLMs for user-based tasks.<br>👯 I’m looking to collaborate on innovative Machine Learning Projects<br>🌱 I’m currently learning advance Deep Learning concepts and LLMs.<br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Structures and Python development<br>⚡ Fun fact about me is that if I have to learn something, I just have to observe.</h3>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">🛠 Language and tools</h3>
 
