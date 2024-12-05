@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
+  <img height="400" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
 </div>
 
 ###
