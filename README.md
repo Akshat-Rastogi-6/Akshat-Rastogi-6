@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
+  <img height="350" width="450" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<h4 align="left">🔭 I’m currently working on Fine-tuning LLMs for user-based tasks.<br>👯 I’m looking to collaborate on innovative Machine Learning Projects<br>🌱 I’m currently learning advance Deep Learning concepts and LLMs.<br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Structures and Python development<br>⚡ Fun fact about me is that if I have to learn something, I just have to observe.</h4>
+<h3 align="left">🔭 I’m currently working on Fine-tuning LLMs for user-based tasks.<br>👯 I’m looking to collaborate on innovative Machine Learning Projects<br>🌱 I’m currently learning advance Deep Learning concepts and LLMs.<br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Data Structures and Python development<br>⚡ Fun fact about me is that if I have to learn something, I just have to observe.</h3>
 
 ###
 
