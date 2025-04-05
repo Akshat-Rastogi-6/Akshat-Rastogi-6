@@ -1,18 +1,3 @@
-###
-
-<h2 align="center">🚀 Crafting Code, Building Ideas | Open Source Enthusiast 💻</h2>
-
-###
-
-<div align="center">
-  <img height="350" width="700" src="https://github.com/Akshat-Rastogi-6/Akshat-Rastogi-6/blob/1a3caff956f67fd7061d278064609e5441f10f6e/Make%20your%20README%20(1).png"  />
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Akshat-Rastogi-6/count.svg?"  />
-</div>
 
 ###
 
