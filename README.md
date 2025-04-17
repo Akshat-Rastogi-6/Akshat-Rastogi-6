@@ -1,2 +1,4 @@
+## Hello👋 I am Akshat Rastogi. 
+<br>
+<p> If you like my work. Check my resume. <a href = "Akshat-Rastogi-6/Arogyam"> Click me</a></p>
 
-<p aligh="center">Hello, I am Akshat Rastogi and I'm currently focused on fine-tuning LLMs for user-based tasks 🔧, always open to collaborating on innovative machine learning projects 🤝. As I dive deeper into advanced deep learning concepts and LLMs 📚, I enjoy discussing everything from machine learning and computer vision to data structures and Python development 🧑‍💻. A fun fact about me is that my learning style is based on observation 👀—if I want to learn something, I just watch and absorb. 🌱</p>
